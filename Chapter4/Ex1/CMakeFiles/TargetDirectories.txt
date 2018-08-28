@@ -1,0 +1,3 @@
+/home/steve/git/Stroustrup_3rdEdition/Chapter4/Ex1/CMakeFiles/rebuild_cache.dir
+/home/steve/git/Stroustrup_3rdEdition/Chapter4/Ex1/CMakeFiles/ex1.dir
+/home/steve/git/Stroustrup_3rdEdition/Chapter4/Ex1/CMakeFiles/edit_cache.dir
