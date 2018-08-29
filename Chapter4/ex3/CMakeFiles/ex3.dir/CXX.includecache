@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/steve/git/Stroustrup_3rdEdition/Chapter4/ex3/ex3Sizeof.cpp
+iostream
+-
+limits
+-
+
