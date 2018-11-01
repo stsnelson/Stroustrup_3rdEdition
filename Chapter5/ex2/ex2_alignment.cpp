@@ -6,6 +6,9 @@
 * char(asterick), Int(), and void()
 *
 * For example, may and int() have and add value? Hint Alignment
+*
+* NOT COMPLETED AS CANNOT UNDERSTAND THE QUESTION TO WHAT THE RESTIRCTIONS ARE
+* IF DURING I FIND OUT WHAT THIS IS I WILL UPDATE
 * NOTHING TO RUN 
 *
 * @author Steve Snelson 
